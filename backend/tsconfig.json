@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "target": "ESNext",
+    "lib": ["esnext"],
+    "skipLibCheck": true,
+    "strict": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": false
+  },
+  "include": [
+    "src"
+  ],
+  "references": [{ "path": "../shared" }]
+}

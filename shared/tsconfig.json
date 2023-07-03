@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "outDir": "./dist",
+    "target": "ESNext",
+    "lib": ["esnext", "DOM"],
+    "skipLibCheck": true,
+    "strict": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": [
+    "src"
+  ]
+}

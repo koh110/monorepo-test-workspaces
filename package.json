@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "monorepo-test-workspaces",
+  "workspaces": [
+    "backend",
+    "frontend",
+    "frontend-vite",
+    "shared"
+  ]
+}
